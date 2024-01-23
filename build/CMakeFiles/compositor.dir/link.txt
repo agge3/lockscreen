@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/compositor.dir/src/compositor.c.o -o compositor  -lwayland-client -lwayland-server -lwlroots 

@@ -1,0 +1,1 @@
+/usr/bin/cc "CMakeFiles/dbus-example.dir/src/dbus-example.c.o" -o dbus-example  -lelogind -ldbus-1 
