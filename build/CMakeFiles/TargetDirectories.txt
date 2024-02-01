@@ -1,6 +1,0 @@
-/home/agge/projects/dbus_and_elogind/lock-screen/build/CMakeFiles/lock-screen.dir
-/home/agge/projects/dbus_and_elogind/lock-screen/build/CMakeFiles/dbus-example.dir
-/home/agge/projects/dbus_and_elogind/lock-screen/build/CMakeFiles/registry.dir
-/home/agge/projects/dbus_and_elogind/lock-screen/build/CMakeFiles/compositor.dir
-/home/agge/projects/dbus_and_elogind/lock-screen/build/CMakeFiles/edit_cache.dir
-/home/agge/projects/dbus_and_elogind/lock-screen/build/CMakeFiles/rebuild_cache.dir

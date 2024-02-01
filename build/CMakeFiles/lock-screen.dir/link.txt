@@ -1,1 +1,0 @@
-/usr/bin/c++ "CMakeFiles/lock-screen.dir/src/main.cpp.o" -o lock-screen  -lelogind -ldbus-1 /usr/lib64/libsfml-graphics.so.2.6.1 /usr/lib64/libsfml-window.so.2.6.1 /usr/lib64/libsfml-system.so.2.6.1 

@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/registry.dir/src/registry.cpp.o "CMakeFiles/registry.dir/src/session-lock.c.o" -o registry  -lwayland-client 

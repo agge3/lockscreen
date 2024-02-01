@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/connect.dir/src/connect.cpp.o -o connect  -lwayland-client 
